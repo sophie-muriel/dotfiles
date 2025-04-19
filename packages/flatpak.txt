@@ -1,0 +1,5 @@
+app.zen_browser.zen
+com.discordapp.Discord
+dev.qwery.AddWater
+md.obsidian.Obsidian
+org.musicbrainz.Picard
