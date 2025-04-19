@@ -1,0 +1,36 @@
+# system and GNOME stuff
+dconf/
+gnome-*/
+user-dirs.*
+
+# app configs and cache
+Ax-Shell/
+Code/
+Electron/
+Google/
+Kitware/
+app.moosync.moosync/
+discord/
+easytag/
+epiphany/
+evolution/
+fcitx*/
+go/
+goa-1.0/
+ibus/
+libreoffice/
+matugen/
+mimeapps.list
+mozc/
+nautilus/
+obs-studio/
+pavucontrol.ini
+qtvirtualkeyboard/
+rclone/
+spotify/
+systemd/
+totem/
+xdg-terminals.list
+yay/
+yt-dlg/
+.gsd-keyboard.settings-ported
